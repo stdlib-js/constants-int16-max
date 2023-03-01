@@ -90,7 +90,7 @@ console.log( INT16_MAX );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/int16/min`][@stdlib/constants/int16/min]</span><span class="delimiter">: </span><span class="description">minimum signed 16-bit integer.</span>
+-   <span class="package-name">[`@stdlib/constants-int16/min`][@stdlib/constants/int16/min]</span><span class="delimiter">: </span><span class="description">minimum signed 16-bit integer.</span>
 
 </section>
 
