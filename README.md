@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import INT16_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-max@deno/mod.js';
+import INT16_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-max@v0.2.3-deno/mod.js';
 ```
 
 #### INT16_MAX
@@ -67,7 +67,7 @@ var bool = ( INT16_MAX === 32767 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import INT16_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-max@deno/mod.js';
+import INT16_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-max@v0.2.3-deno/mod.js';
 
 console.log( INT16_MAX );
 // => 32767
